@@ -1,4 +1,4 @@
-# OTT-Hypothesis-Testing-An-Analytical-Study-of-Age-Restriction-and-Ratings-on-Netflix-vs-Disney
+# OTT Hypothesis Testing: An Analytical Study of Age Restriction and Ratings on Netflix vs Disney
 
 This repository contains a **data analysis project** that explores movies available on various streaming platforms. The analysis focuses on two main aspects of movies:
 
